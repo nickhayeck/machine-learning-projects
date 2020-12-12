@@ -1,1 +1,2 @@
-#machine learning repo
+# Machine Learning Projects
+This is a repository containing all the projects worked on as a result of me taking UVA's CS4774: "Machine Learning". Most files can be run by calling "python3 <file> <dataset>". Most projects require keras, scipy, tensorflow, and matplotlib. Most algorithms here are hand programmed, using only the keras/scipy version of the model as a benchmark. email hayeck@virginia.edu with any questions.
